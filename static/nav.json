@@ -69,14 +69,14 @@
 		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
-	"_id": "yunpan",
-	"classify": "云盘储存",
-	"icon": "ti-cloud",
+	"_id": "fuwuqi",
+	"classify": "服务器",
+	"icon": "ti-server",
 	"sites": [{
 		"name": "亚马逊云",
 		"href": "https://aws.amazon.com/cn/campaigns/aws-cloudserver",
 		"desc": "免费一年+3个月",
-		"logo": "static/icons/wenshushu.cn.ico"
+		"logo": "https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E4%BA%9A%E9%A9%AC%E9%80%8A%E4%BA%91%E5%9B%BE%E6%A0%87&step_word=&lid=8720315218594667809&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2252467563,2760782867&os=1297783756,1860650362&simid=2252467563,2760782867&pn=0&rn=1&di=7348476013078118401&ln=1199&fr=&fmq=1713606415739_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=1e&objurl=https%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20200214%2F80ddcb7bd98843d4ae10e9982f9837ef.png&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDEsMiw0LDYsNSw3LDgsOQ%3D%3D"
 	},  {
 		"name": "微云",
 		"href": "https://www.weiyun.com/",
