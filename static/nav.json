@@ -73,9 +73,9 @@
 	"classify": "云盘储存",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "文叔叔",
-		"href": "https://www.wenshushu.cn/",
-		"desc": "大文件即时传输，新晋优秀网盘",
+		"name": "亚马逊云",
+		"href": "https://aws.amazon.com/cn/campaigns/aws-cloudserver",
+		"desc": "免费一年+3个月",
 		"logo": "static/icons/wenshushu.cn.ico"
 	},  {
 		"name": "微云",
