@@ -72,6 +72,11 @@
 		"href": "https://zh.singlelogin.re/",
 		"desc": "小熊熊的乐园",
 		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "幸运的小黄人",
+		"href": "https://openai.com/",
+		"desc": "小熊熊成长记",
+		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
 	"_id": "fuwuqi",
