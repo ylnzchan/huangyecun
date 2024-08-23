@@ -77,6 +77,11 @@
 		"href": "https://openai.com/",
 		"desc": "小熊熊成长记",
 		"logo": "static/icons/photopea.com.png"
+	}, {
+		"name": "gg",
+		"href": "https://www.google.com",
+		"desc": "小熊熊成长记",
+		"logo": "static/icons/photopea.com.png"
 	}]
 }, {
 	"_id": "fuwuqi",
